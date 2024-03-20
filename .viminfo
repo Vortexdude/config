@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710956237,,"wq"
+|2,0,1710957193,,"wq"
 :q1
 |2,0,1710953390,,"q1"
 :%d
@@ -217,38 +217,54 @@
 |3,0,36,0,1,0,1710953054,"#"
 
 # File marks:
-'0  128  66  ~/.bashrc
-|4,48,128,66,1710956237,"~/.bashrc"
-'1  128  0  ~/.bashrc
-|4,49,128,0,1710956201,"~/.bashrc"
-'2  130  0  ~/.bashrc
-|4,50,130,0,1710955589,"~/.bashrc"
-'3  128  0  ~/.bashrc
-|4,51,128,0,1710955589,"~/.bashrc"
-'4  130  0  ~/.bashrc
-|4,52,130,0,1710955589,"~/.bashrc"
-'5  128  0  ~/.bashrc
-|4,53,128,0,1710955589,"~/.bashrc"
-'6  130  0  ~/.bashrc
-|4,54,130,0,1710953390,"~/.bashrc"
-'7  128  0  ~/.bashrc
-|4,55,128,0,1710953390,"~/.bashrc"
-'8  130  0  ~/.bashrc
-|4,56,130,0,1710953390,"~/.bashrc"
-'9  128  0  ~/.bashrc
-|4,57,128,0,1710953390,"~/.bashrc"
+'0  8  0  ~/Readme.md
+|4,48,8,0,1710957193,"~/Readme.md"
+'1  128  66  ~/.bashrc
+|4,49,128,66,1710956237,"~/.bashrc"
+'2  128  0  ~/.bashrc
+|4,50,128,0,1710956201,"~/.bashrc"
+'3  130  0  ~/.bashrc
+|4,51,130,0,1710955589,"~/.bashrc"
+'4  128  0  ~/.bashrc
+|4,52,128,0,1710955589,"~/.bashrc"
+'5  130  0  ~/.bashrc
+|4,53,130,0,1710955589,"~/.bashrc"
+'6  128  0  ~/.bashrc
+|4,54,128,0,1710955589,"~/.bashrc"
+'7  130  0  ~/.bashrc
+|4,55,130,0,1710953390,"~/.bashrc"
+'8  128  0  ~/.bashrc
+|4,56,128,0,1710953390,"~/.bashrc"
+'9  130  0  ~/.bashrc
+|4,57,130,0,1710953390,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  8  0  ~/Readme.md
+|4,39,8,0,1710957193,"~/Readme.md"
+-'  1  0  ~/Readme.md
+|4,39,1,0,1710957138,"~/Readme.md"
 -'  128  66  ~/.bashrc
 |4,39,128,66,1710956237,"~/.bashrc"
+-'  128  66  ~/.bashrc
+|4,39,128,66,1710956237,"~/.bashrc"
+-'  128  0  ~/.bashrc
+|4,39,128,0,1710956201,"~/.bashrc"
 -'  128  0  ~/.bashrc
 |4,39,128,0,1710956201,"~/.bashrc"
 -'  130  0  ~/.bashrc
 |4,39,130,0,1710956184,"~/.bashrc"
 -'  130  0  ~/.bashrc
 |4,39,130,0,1710956184,"~/.bashrc"
+-'  130  0  ~/.bashrc
+|4,39,130,0,1710956184,"~/.bashrc"
+-'  130  0  ~/.bashrc
+|4,39,130,0,1710956184,"~/.bashrc"
 -'  128  0  ~/.bashrc
 |4,39,128,0,1710955589,"~/.bashrc"
+-'  128  0  ~/.bashrc
+|4,39,128,0,1710955589,"~/.bashrc"
+-'  128  0  ~/.bashrc
+|4,39,128,0,1710953390,"~/.bashrc"
 -'  128  0  ~/.bashrc
 |4,39,128,0,1710953390,"~/.bashrc"
 -'  127  0  ~/.bashrc
@@ -260,7 +276,19 @@
 -'  127  0  ~/.bashrc
 |4,39,127,0,1710953381,"~/.bashrc"
 -'  127  0  ~/.bashrc
+|4,39,127,0,1710953381,"~/.bashrc"
+-'  127  0  ~/.bashrc
+|4,39,127,0,1710953381,"~/.bashrc"
+-'  127  0  ~/.bashrc
+|4,39,127,0,1710953381,"~/.bashrc"
+-'  127  0  ~/.bashrc
+|4,39,127,0,1710953381,"~/.bashrc"
+-'  127  0  ~/.bashrc
 |4,39,127,0,1710953056,"~/.bashrc"
+-'  127  0  ~/.bashrc
+|4,39,127,0,1710953056,"~/.bashrc"
+-'  127  0  ~/.bashrc
+|4,39,127,0,1710942649,"~/.bashrc"
 -'  127  0  ~/.bashrc
 |4,39,127,0,1710942649,"~/.bashrc"
 -'  11  7  ~/.config/starship.toml
@@ -391,56 +419,36 @@
 |4,39,11,7,1710942025,"~/.config/starship.toml"
 -'  11  7  ~/.config/starship.toml
 |4,39,11,7,1710942025,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
--'  151  0  ~/.config/starship.toml
-|4,39,151,0,1710941995,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
+-'  11  7  ~/.config/starship.toml
+|4,39,11,7,1710942025,"~/.config/starship.toml"
 
 # History of marks within files (newest to oldest):
+
+> ~/Readme.md
+	*	1710957193	0
+	"	8	0
+	^	8	0
+	.	9	0
+	+	9	2
+	+	9	0
 
 > ~/.bashrc
 	*	1710956236	0
