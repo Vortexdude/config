@@ -125,4 +125,5 @@ xterm*|rxvt*)
     ;;
 esac
 eval "$(starship init bash)"
-alias dotfiles=/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
