@@ -26,6 +26,7 @@ install_python(){
 
 setup_nerdfont(){
 	curl $NERDFONT_URL -L -o /tmp/JetBrainsMono.zip 
+	mkdir -p ~/.local/share/fonts/
 	unzip /tmp/JetBrainsMono.zip ~/.local/share/fonts/
 }
 
@@ -40,6 +41,8 @@ def main(){
 	install_python
 	setup_nerdfont
 	install_startship
+	dconf load /org/gnome/terminal/legacy/profiles:/ < gnome-terminal-profiles.dconf
+	echo -e "PLease Re open the terminal"
 }
 
 
